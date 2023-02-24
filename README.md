@@ -1,3 +1,3 @@
 # LeetCode
-Problem solving 
-Lang: C#
+Problem solving   
+Lang: C#  
